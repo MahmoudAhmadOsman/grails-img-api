@@ -19,6 +19,11 @@ This project is built with Grails Framework ( Version 4.0.3 )
 
 
 
+### Step: 4
+
+- Choose an IDE . I am using IntelliJ IDEA 
+
+- __________________________________________________________________________________________________
 
 
 ## Clone this project
