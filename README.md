@@ -39,6 +39,9 @@ $ grails create-app
 ```
 
 
+
+__________________________________________________________________________________________________
+
 ## Contributing
 Please, feel free to contrubute to this or correct me if you see anything wrong about this project. Also, if you have any sugguestion(s)/question(s) feel free to send me an email. 
 
