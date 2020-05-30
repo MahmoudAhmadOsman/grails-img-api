@@ -1,7 +1,7 @@
 ## Project
 This project is built with Grails Framework ( Version 4.0.3 )
   ### Or
-Download Grails from [grails.org](https://grails.org/index.html)
+Download Grails Framework from [grails.org](https://grails.org/index.html)
 
 ## Clone this project
 
