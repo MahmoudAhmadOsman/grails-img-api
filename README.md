@@ -11,7 +11,7 @@ $ git clone https://github.com/MahmoudAhmadOsman/grails-img-api.git
 
 ## To create a Grails application use this command
 
-```bash
+```bash diff
 $ grails create-app 
 ```
 
@@ -20,8 +20,8 @@ $ grails create-app
 Please, feel free to contrubute to this or correct me if you see anything wrong about this project. Also, if you have any sugguestion(s)/question(s) feel free to send me an email. 
 
 
-```diff
+
 ### My Website
-```
+
  Please, visit my website and send a message if you have any question(s)
 [netsansoftwarec.com](https://www.netsansoftware.com/)
