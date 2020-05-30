@@ -5,7 +5,7 @@ This project is built with Grails Framework ( Version 4.0.3 )
 
 
 ### Step: 2 
- - Configure Java an Grails environment variables
+ - Configure Java & Grails environment variables
 
  ```bash
   - JAVA_HOME
@@ -15,7 +15,7 @@ This project is built with Grails Framework ( Version 4.0.3 )
 
 ### Step: 3 
 
-- Download Grails Framework from [grails.org](https://grails.org/index.html)
+- Download Grails Framework from [grails.org](https://grails.org/index.html) and choose a version 
 
 
 
