@@ -1,4 +1,4 @@
-## Project
+## Grails Framework
 This project is built with Grails Framework ( Version 4.0.3 )
   ### Or
 Download Grails Framework from [grails.org](https://grails.org/index.html)
