@@ -1,8 +1,7 @@
 ## Grails Framework
 This project is built with Grails Framework ( Version 4.0.3 )
   ### Step: 1
- - Download JDK from [oracle.com](https://www.oracle.com/java/technologies/javase-downloads.html#javasejdk) website and download JDK version you want. I am using Java SE 8u251
-
+ - Download JDK from [oracle.com](https://www.oracle.com/java/technologies/javase-downloads.html#javasejdk) website and download JDK version you want. I am using [ Java SE 8u251 ]
 
 ### Step: 2 
  - Configure Java & Grails environment variables
