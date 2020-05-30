@@ -1,6 +1,6 @@
 ## Project
 This project is built with Grails Framework (Version 4.0.3 )
-## Clone ### this project
+## Clone this project
 
 ```bash
 $ git clone https://github.com/MahmoudAhmadOsman/grails-img-api.git
