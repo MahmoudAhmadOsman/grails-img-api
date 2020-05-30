@@ -17,10 +17,11 @@ $ grails create-app
 
 
 ## Contributing
-Please, feel free to contrubute to this and correct me if you see anything wrong about this project or if you have any sugguestions that would also welcomed. 
+Please, feel free to contrubute to this or correct me if you see anything wrong about this project. Also, if you have any sugguestion(s)/question(s) feel free to send me an email. 
 
 
-
+```diff
 ### My Website
+```
  Please, visit my website and send a message if you have any question(s)
 [netsansoftwarec.com](https://www.netsansoftware.com/)
