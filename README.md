@@ -5,13 +5,13 @@ Download Grails Framework from [grails.org](https://grails.org/index.html)
 
 ## Clone this project
 
-```bash
+```diff
 $ git clone https://github.com/MahmoudAhmadOsman/grails-img-api.git
 ```
 
 ## To create a Grails application use this command
 
-```bash diff
+```diff
 $ grails create-app 
 ```
 
