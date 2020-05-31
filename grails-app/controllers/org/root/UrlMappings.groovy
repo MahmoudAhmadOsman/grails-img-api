@@ -1,4 +1,4 @@
-package grails.img.api
+package org.root
 
 class UrlMappings {
 
@@ -9,7 +9,8 @@ class UrlMappings {
             }
         }
 
-        "/"(view:"/index")
+        "/"(view:"/index") //Default Landing Page
+        //"/"(view:"/home") // custom Landing Page
         "500"(view:'/error')
         "404"(view:'/notFound')
     }

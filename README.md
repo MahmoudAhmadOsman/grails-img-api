@@ -34,10 +34,10 @@ $ git clone https://github.com/MahmoudAhmadOsman/grails-img-api.git
 ## To create a Grails application use this command
 
 ```bash
-$ grails create-app 
+$ grails create-app [ project name ]
 ```
 
-
+For more command visit Grails website at [grails.org](https://docs.grails.org/latest/ref/Command%20Line/Usage.html)
 
 __________________________________________________________________________________________________
 
