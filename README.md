@@ -37,7 +37,7 @@ $ git clone https://github.com/MahmoudAhmadOsman/grails-img-api.git
 $ grails create-app [ project name ]
 ```
 
-For more command visit Grails website at [grails.org](https://docs.grails.org/latest/ref/Command%20Line/Usage.html)
+For more commands visit Grails website at [grails.org](https://docs.grails.org/latest/ref/Command%20Line/Usage.html)
 
 __________________________________________________________________________________________________
 
